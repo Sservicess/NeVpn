@@ -1,0 +1,27 @@
+{
+  "version": "1.0",
+  "last_updated": "2024-11-25T12:00:00Z",
+  "servers": [
+    {
+      "id": "de_frankfurt_1",
+      "country": "Germany",
+      "city": "Franfurkt",
+      "flag": "🇩🇪",
+      "host": "138.68.109.99",
+      "ports": {
+        "shadowsocks": 8388
+      },
+      "method": "aes-256-gcm",
+      "password": "antivpn2024",
+      "load": 25,
+      "ping": 32,
+      "premium": false,
+      "status": "online"
+    }
+  ],
+  "settings": {
+    "update_interval": 3600,
+    "fallback_url": "https://raw.githubusercontent.com/Sservicess/NeVpn/main/servers.json",
+    "min_app_version": "1.0.0"
+  }
+}
