@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "last_updated": "2025-11-26",
+  "servers": [
+    {
+      "id": "de_frankfurt_v2ray",
+      "country": "Germany",
+      "city": "Frankfurt",
+      "flag": "🇩🇪",
+      "host": "138.68.109.99",
+      "port": 8388,
+      "protocol": "vmess",
+      "uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "alterId": 0,
+      "security": "auto",
+      "network": "tcp",
+      "type": "none",
+      "load": 15,
+      "ping": 28,
+      "premium": false,
+      "status": "online"
+    }
+  ],
+  "settings": {
+    "update_interval": 3600000,
+    "fallback_url": "https://raw.githubusercontent.com/Sservicess/NeVpn/main/v2ray_server_config.json",
+    "min_app_version": "1.0"
+  }
+}
