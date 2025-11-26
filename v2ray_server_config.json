@@ -9,7 +9,7 @@
       "flag": "🇩🇪",
       "host": "138.68.109.99",
       "port": 8388,
-      "protocol": "dokodemo-door",
+      "protocol": "socks",
       "load": 15,
       "ping": 28,
       "premium": false,
